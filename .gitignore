@@ -1,0 +1,22 @@
+
+# Python virtual environment
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE settings
+.idea/
+
+# Generated data and reports
+data/
+landing/
+
+# Test output
+.pytest_cache/
